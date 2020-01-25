@@ -16,7 +16,6 @@ namespace Santorini
         void initialize();
         void clear();
         void draw();
-        //Maybe use template or something better instead of void*, Enum....
         void setCell(const Position& _position, const std::string&  _type, const Santorini::Blocks& _level);
         std::pair<std::string, std::string> getCell(int x, int y) const;
 
