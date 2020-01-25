@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SantoriniGame", "SantoriniGame\SantoriniGame.vcxproj", "{BF6E241D-DF9A-48ED-BCE0-0539730D585C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Debug|x64.ActiveCfg = Debug|x64
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Debug|x64.Build.0 = Debug|x64
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Debug|x86.Build.0 = Debug|Win32
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Release|x64.ActiveCfg = Release|x64
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Release|x64.Build.0 = Release|x64
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Release|x86.ActiveCfg = Release|Win32
+		{BF6E241D-DF9A-48ED-BCE0-0539730D585C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE4CD5B1-EC8A-43CF-BE6A-F3B42122FCE6}
+	EndGlobalSection
+EndGlobal
